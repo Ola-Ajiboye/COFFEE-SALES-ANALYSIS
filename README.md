@@ -20,6 +20,14 @@ Top 10 products by sales
 
 Sales analysis by days and hours
 
+## TECHNICAL TOOLS:
+•	Power Query: for cleaning data, ensuring data quality and consistency. 
+
+•	Power BI: Data Visualization and DAX Formular Calculation.
+
+•	SQL: Analysis
+
+
 ## TOOL AND TECHNIQUES
 In this project, Power BI was the primary and sole tool used for data analysis, visualization, and reporting. Power BI’s comprehensive suite of features allowed for a streamlined work-flow, covering all stages from data ingestion to dashboard creation and sharing.
 
